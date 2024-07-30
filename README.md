@@ -18,4 +18,4 @@ https://github.com/user-attachments/assets/74caa8a5-db18-4d9d-ae56-b065f0419ce6
 
 [![Watch the video]](fall_detection_output_video.mp4)
 
-Click the image above to watch the video.
+Click the image above to watch the video or download it.
